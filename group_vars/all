@@ -1,0 +1,2 @@
+graphite_retention_config_name: default
+graphite_retention_setting: 10s:2d,60s:14d,300s:60d,1200s:395d

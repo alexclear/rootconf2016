@@ -1,0 +1,7 @@
+---
+- hosts: sverka-03
+  sudo: yes
+  roles:
+  - role: etckeeper
+  - role: common-utils
+  - role: graphite-carbon
