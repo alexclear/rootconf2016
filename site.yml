@@ -5,3 +5,4 @@
   - role: etckeeper
   - role: common-utils
   - role: graphite-carbon
+  - role: collectd
