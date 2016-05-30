@@ -1,0 +1,9 @@
+[submodule "roles/common-utils"]
+	path = roles/common-utils
+	url = https://github.com/gitinsky/ansible-role-common-utils.git
+[submodule "roles/etckeeper"]
+	path = roles/etckeeper
+	url = https://github.com/gitinsky/ansible-role-etckeeper.git
+[submodule "roles/graphite"]
+	path = roles/graphite
+	url = https://github.com/gitinsky/ansible-role-graphite.git
