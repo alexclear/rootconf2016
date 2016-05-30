@@ -1,2 +1,30 @@
 [sverka-03]
 sverka-03 ansible_ssh_host=192.168.160.120
+
+[sverkas]
+sverka-01 ansible_ssh_host=192.168.160.1
+sverka-02 ansible_ssh_host=192.168.160.121
+sverka-03 ansible_ssh_host=192.168.160.120
+sverka-04 ansible_ssh_host=192.168.160.122
+sverka-05 ansible_ssh_host=192.168.160.126
+sverka-06 ansible_ssh_host=192.168.160.123
+sverka-07 ansible_ssh_host=192.168.160.124
+sverka-08 ansible_ssh_host=192.168.160.125
+sverka-09 ansible_ssh_host=192.168.160.127
+sverka-10 ansible_ssh_host=192.168.160.150
+sverka-11 ansible_ssh_host=192.168.160.119
+sverka-12 ansible_ssh_host=192.168.160.128
+sverka-13 ansible_ssh_host=192.168.160.151
+sverka-14 ansible_ssh_host=192.168.160.152
+sverka-15 ansible_ssh_host=192.168.160.153
+sverka-16 ansible_ssh_host=192.168.160.154
+sverka-17 ansible_ssh_host=192.168.160.2
+sverka-18 ansible_ssh_host=192.168.160.3
+sverka-19 ansible_ssh_host=192.168.160.5
+sverka-20 ansible_ssh_host=192.168.160.10
+sverka-21 ansible_ssh_host=192.168.160.11
+sverka-22 ansible_ssh_host=192.168.160.12
+sverka-23 ansible_ssh_host=192.168.160.13
+sverka-24 ansible_ssh_host=192.168.160.14
+sverka-25 ansible_ssh_host=192.168.160.15
+sverka-26 ansible_ssh_host=192.168.160.16
