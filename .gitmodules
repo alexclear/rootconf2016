@@ -7,3 +7,12 @@
 [submodule "roles/graphite"]
 	path = roles/graphite
 	url = https://github.com/gitinsky/ansible-role-graphite.git
+[submodule "roles/collectd"]
+	path = roles/collectd
+	url = https://github.com/gitinsky/ansible-role-collectd.git
+[submodule "roles/eye"]
+	path = roles/eye
+	url = https://github.com/gitinsky/ansible-role-eye.git
+[submodule "roles/ruby-rvm"]
+	path = roles/ruby-rvm
+	url = https://github.com/gitinsky/ansible-role-ruby-rvm.git
