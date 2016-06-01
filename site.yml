@@ -5,4 +5,14 @@
   - role: etckeeper
   - role: common-utils
   - role: graphite-carbon
+  - role: graphite-api
+  - role: collectd
+  - role: grafana-dockerized
+  - role: grafana-container
+  - role: prometheus-container
+  - role: graphite-exporter-container
+
+- hosts: all
+  sudo: yes
+  roles:
   - role: collectd
