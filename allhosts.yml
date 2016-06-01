@@ -1,0 +1,14 @@
+---
+- hosts: all
+  sudo: yes
+  roles:
+  - role: collectd
+  - { role: collectd, collectd_prefix: "collectd_1", collectd_suffix: "rootconf_1" }
+  - { role: collectd, collectd_prefix: "collectd_2", collectd_suffix: "rootconf_2" }
+  - { role: collectd, collectd_prefix: "collectd_3", collectd_suffix: "rootconf_3" }
+  - { role: collectd, collectd_prefix: "collectd_4", collectd_suffix: "rootconf_4" }
+  - { role: collectd, collectd_prefix: "collectd_5", collectd_suffix: "rootconf_5" }
+  - { role: collectd, collectd_prefix: "collectd_6", collectd_suffix: "rootconf_6" }
+  - { role: collectd, collectd_prefix: "collectd_7", collectd_suffix: "rootconf_7" }
+  - { role: collectd, collectd_prefix: "collectd_8", collectd_suffix: "rootconf_8" }
+  - { role: collectd, collectd_prefix: "collectd_9", collectd_suffix: "rootconf_9" }
